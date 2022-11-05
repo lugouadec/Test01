@@ -4,9 +4,6 @@ Esto es una prueba
 
 Prueba de Como funciona
 
-<<<<<<< Updated upstream
+Hola Dr. Jose Lugo C. Hola Mundo !!! 
 
-Hola Dr. Jose Lugo C.
-=======
-Hola Mundo !!! 
->>>>>>> Stashed changes
+
